@@ -1,5 +1,13 @@
 
-![redux-todo-app](https://github.com/user-attachments/assets/5ee91d5b-ded4-4311-957d-ff672ee44c8a)
+![redux-todo-app](https://github.com/user-attachments/assets/8ed5ee90-33f5-41d0-948d-3a0c1446f08d)
+
+# Preview
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/ab214ada-a360-439a-82b7-fd2116d79235" />
+
+1. Add Todo
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/38985356-2ae1-4660-9525-7c643f8785f9" />
+
 
 
 # 🧠 Redux Todo + Theme App
@@ -53,7 +61,7 @@ This is a simple React + Redux application that demonstrates how to build and ma
    npm start
  
 
----
+
 
 
 ## 🙌 Author
