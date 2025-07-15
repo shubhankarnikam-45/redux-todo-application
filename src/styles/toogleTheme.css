@@ -1,0 +1,25 @@
+.theme_container {
+    width: 50%;
+    background-color: black;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    border-radius: 20px;
+    color: white;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.theme-btn{
+    height: 35px;
+    width: 100px;
+    border-radius: 5px;
+}

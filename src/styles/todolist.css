@@ -1,0 +1,33 @@
+.todolist_div{
+    background-color: black;
+    color: white;
+    position: relative;
+    top : 80px;
+    width: 50%;
+    margin: auto;
+    background: transparent;
+}
+
+.todolist_con{
+    width: 100%;
+    display: flex;
+}
+
+h3{
+    width: 80%;
+    background-color: black;
+    margin: 10px;
+    height: 40px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.delete-btn{
+    width: 20%;
+    height: 40px;
+    margin: 10px;
+     border-radius: 15px;
+     border: none;
+}
